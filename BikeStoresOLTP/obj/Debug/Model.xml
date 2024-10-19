@@ -176,8 +176,8 @@ END]]></Value>
 BEGIN
 	SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
 	SET NOCOUNT ON
-
-	SELECT DBTS = (CONVERT(BIGINT,MIN_ACTIVE_ROWVERSION())-1);
+	--Changed 10/16/2024
+	SELECT dbts = (CONVERT(BIGINT,MIN_ACTIVE_ROWVERSION())-1);
 END]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -192,7 +192,7 @@ END]]></Value>
 				</Entry>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
-				<Property Name="Length" Value="193" />
+				<Property Name="Length" Value="214" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[GetDatabaseRowVersion]&#xD;&#xA;AS" />
