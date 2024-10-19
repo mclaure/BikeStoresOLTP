@@ -1,0 +1,10 @@
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\bin\Debug\BikeStoresDB.dacpac
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dll
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.pdb
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\BikeStoresDB.sqlproj.AssemblyReference.cache
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\Model.xml
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\refactor.xml
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\postdeploy.sql
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\predeploy.sql
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.dll
+C:\Documents\Academia\UAGRM\DevOps y Automatizacion de Procesos V1\Demo\BikeStoresOLTP\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.pdb
